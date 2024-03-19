@@ -1,0 +1,66 @@
+body {
+  background-color: rgb(222, 207, 189);
+}
+/* styles.css */
+.timer {
+  font-size: 24px;
+  font-family: Arial, sans-serif;
+  text-align: right;
+}
+
+.container {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 10px;
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: left;
+  color: blue;
+  width: auto;
+  padding: 5px;
+  height: 50px;
+  border: 2px solid;
+  border-color: black;
+  position: initial;
+}
+#Question1 {
+  font-size: 2rem;
+}
+#Question2 {
+  font-size: 2rem;
+}
+#Question3 {
+  font-size: 2rem;
+}
+#Question4 {
+  font-size: 2rem;
+}
+#Question5 {
+  font-size: 2rem;
+}
+#button {
+  padding: 10px;
+  font-size: 20px;
+  margin-right: 50px;
+  box-sizing: border-box;
+}
+button:hover {
+  cursor: pointer;
+}
+button:active {
+  background-color: black;
+  color: white;
+}
+.button {
+  color: white;
+  background-color: blue;
+  padding: 10px;
+  font-size: larger;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  box-sizing: border-box;
+}
